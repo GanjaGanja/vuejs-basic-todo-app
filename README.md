@@ -1,6 +1,8 @@
-# basic-todo-app
+# vuejs-basic-todo-app
 
 > A Vue.js project
+
+Basic todo app build with Vue.js by [paadams](https://medium.com/@paadams/build-a-simple-todo-app-with-vue-js-1778ae175514#.eeqtegr8t)
 
 ## Build Setup
 
